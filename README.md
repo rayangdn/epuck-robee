@@ -1,6 +1,6 @@
 # R.O.B.E.E
 <p align = "center">
- <img src = "./images/banner.jpeg">
+ <img src = "./Code/images/banner.jpeg">
 </p>
 
 A robotic bee equipped with camera, microphone, speaker and TOF sensor.
@@ -50,7 +50,7 @@ Finally, you will see a green arrow and next to it "BMP launch to main", press i
 
 ## Demo
 ### Live demo
-[![R.O.B.E.E demo live ](./images/Robee_in_action.jpeg)](https://www.youtube.com/watch?v=BzsUUsXOwNg&t=9s)
+[![R.O.B.E.E demo live ](./Code/images/Robee_in_action.jpeg)](https://www.youtube.com/watch?v=BzsUUsXOwNg&t=9s)
 
 
 
